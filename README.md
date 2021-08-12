@@ -1,2 +1,2 @@
-# AR-and-AI
-Augmented Reality + Artificial Intelligence = Super Human
+# Augmented Reality and Artificial Intelligence
+This combination would drastically improve the human condition
